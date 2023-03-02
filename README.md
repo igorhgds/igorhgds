@@ -1,7 +1,9 @@
 <h1> Olá! Eu sou o Igor Henrique👋</h1>
 
+• 25 anos.<br>
+• Tecnólogo - Análise e Desenvolvimento de Sistemas (último semestre)<br>
+• 🌱 Estudando (HTML, CSS, JavaScript, TypeScript, React, Node).
 
-- 🌱 Estudando (HTML, CSS, JavaScript, TypeScript, React, Node).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
