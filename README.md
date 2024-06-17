@@ -1,23 +1,25 @@
-<h1> Olá! Eu sou o Igor Henrique👋</h1>
+# Igor Henrique
 
-• 26 anos.<br>
-• Tecnólogo - Análise e Desenvolvimento de Sistemas.<br>
-• Bacharelado - Ciência da Computação.<br>
-• 🌱 Estudando (JavaScript).
+Estou em busca de um estágio na área de programação para realizar uma transição de carreira, aplicando meus conhecimentos recém-adquiridos em desenvolvimento de software e aproveitando minha sólida experiência técnica em manutenção eletroeletrônica. Com formação em Análise e Desenvolvimento de Sistemas pela UNIP e cursos complementares em JavaScript, HTML5 e CSS3, estou preparado para enfrentar os desafios do desenvolvimento de software. Minha trajetória profissional inclui posições como Eletricista de Manutenção e Oficial de Manutenção Elétrica, onde desenvolvi habilidades em diagnóstico, reparo e gestão de projetos. Estou ansioso para aplicar minha habilidade técnica e atenção aos detalhes em um novo contexto, contribuindo para o desenvolvimento de soluções inovadoras em programação.
+.
 
+### Conecte-se comigo
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/igorhgds/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:igorhenrique.gomes@hotmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorhgds/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorhgds/)
 
-##
+### Habilidades
 
-<div> 
-   <a href="https://www.linkedin.com/in/igorhgds" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/igorhgds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:igorhenrique.gomes@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igorhgds)
 
-  
-</div>
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorhgds&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorhgds&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
