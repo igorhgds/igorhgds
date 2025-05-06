@@ -1,7 +1,7 @@
 # Igor Henrique Gomes
 
 Estagiário Tecnológico Superior na instituição SENAI - Jandira.
-Com formação em Análise e Desenvolvimento de Sistemas pela UNIP e agora cursando Ciência da Computação e realizando cursos complementares em JavaScript, HTML5, CSS3, Java, PostgreSQL, DOcker, ... .Estou preparado para enfrentar os desafios do desenvolvimento de software. Minha trajetória profissional inclui posições como Eletricista de Manutenção e Oficial de Manutenção Elétrica, onde desenvolvi habilidades em diagnóstico, reparo e gestão de projetos.
+Com formação em Análise e Desenvolvimento de Sistemas pela UNIP e agora cursando Ciência da Computação e realizando cursos complementares em JavaScript, HTML5, CSS3, Java, PostgreSQL, Docker. Estou preparado para enfrentar os desafios do desenvolvimento de software. Minha trajetória profissional inclui posições como Eletricista de Manutenção e Oficial de Manutenção Elétrica, onde desenvolvi habilidades em diagnóstico, reparo e gestão de projetos.
 
 ### Conecte-se comigo
 
