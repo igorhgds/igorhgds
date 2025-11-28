@@ -1,7 +1,17 @@
 <h1 align="center"> Igor Henrique Gomes
 <h3 align="center">🚀 Desenvolvedor Back-End | Java | Spring Boot | DevOps</h3>
 
-Desenvolvedor Back-End com experiência no desenvolvimento de aplicações utilizando Java, Spring Boot, Docker, MySQL, PostgreSQL e Azure DevOps. Com vivência em metodologias ágeis, utilizo o Azure DevOps para a gestão de tarefas e acompanhamento de sprints. A minha trajetória profissional anterior proporcionou-me uma forte capacidade de análise de problemas e atenção aos detalhes, competências que aplico diariamente no desenvolvimento de software.
+O meu foco é a Engenharia de Software: construir soluções que sejam robustas, escaláveis e fáceis de manter. Para mim, desenvolver vai muito além de escrever código; trata-se de arquitetura e de entregar valor real.
+
+Técnica Sólida: Não uso apenas Java e Spring Boot; aplico Clean Architecture, SOLID e Design Patterns no dia a dia para garantir que o software cresça sem quebrar. O meu padrão é código testável e organizado.
+
+Inovação na Prática: Tenho experiência real integrando o Back-End com soluções modernas, como Microserviços, Docker e Inteligência Artificial (Azure OpenAI & Speech Services).
+
+Mentalidade de Entrega: Atuo com metodologias ágeis (Scrum) e gerencio todo o ciclo de vida da aplicação usando Azure DevOps e CI/CD.
+
+A minha experiência anterior deu-me uma capacidade analítica forte e um senso de responsabilidade. Trabalho com autonomia, identificando e resolvendo gargalos técnicos antes que se tornem problemas.
+
+Stack Principal: Java 17+, Spring Ecosystem, SQL (Postgres/MySQL), Docker e Git.
 
 ### Conecte-se comigo
 
