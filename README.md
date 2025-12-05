@@ -11,7 +11,7 @@ Mentalidade de Entrega: Atuo com metodologias ágeis (Scrum) e gerencio todo o c
 
 A minha experiência anterior deu-me uma capacidade analítica forte e um senso de responsabilidade. Trabalho com autonomia, identificando e resolvendo gargalos técnicos antes que se tornem problemas.
 
-Stack Principal: Java 17+, Spring Ecosystem, SQL (Postgres/MySQL), Docker e Git.
+Stack Principal: Java 8+, Spring Ecosystem, SQL (Postgres/MySQL), Docker e Git.
 
 ### Conecte-se comigo
 
