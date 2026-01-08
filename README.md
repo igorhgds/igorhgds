@@ -1,7 +1,7 @@
 <h1 align="center"> Igor Henrique Gomes
-<h3 align="center">🚀 Desenvolvedor Back-End | Java | Spring Boot | DevOps</h3>
+<h3 align="center">🚀 Desenvolvedor Back-End | Java | Spring Boot | Angular
 
-O meu foco é a Engenharia de Software: construir soluções que sejam robustas, escaláveis e fáceis de manter. Para mim, desenvolver vai muito além de escrever código; trata-se de arquitetura e de entregar valor real.
+O meu foco é a desenvolvimento backend: construir soluções que sejam robustas, escaláveis e fáceis de manter. Para mim, desenvolver vai muito além de escrever código; trata-se de arquitetura e de entregar valor real.
 
 Técnica Sólida: Não uso apenas Java e Spring Boot; aplico Clean Architecture, SOLID e Design Patterns no dia a dia para garantir que o software cresça sem quebrar. O meu padrão é código testável e organizado.
 
@@ -28,11 +28,11 @@ Stack Principal: Java 8+, Spring Ecosystem, SQL (Postgres/MySQL), Docker e Git.
 **Core Back-End & Database**
 <br>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-**DevOps, Cloud & Tools**
+**DevOps, Cloud & Developer Tools**
 <br>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -51,7 +51,9 @@ Stack Principal: Java 8+, Spring Ecosystem, SQL (Postgres/MySQL), Docker e Git.
 
 </div>
 
+<!--
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorhgds&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorhgds&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+-->
