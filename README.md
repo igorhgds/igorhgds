@@ -1,7 +1,7 @@
 <h1 align="center"> Igor Henrique Gomes
 <h3 align="center">🚀 Desenvolvedor Back-End | Java | Spring Boot | Angular
 
-O meu foco é a desenvolvimento backend: construir soluções que sejam robustas, escaláveis e fáceis de manter. Para mim, desenvolver vai muito além de escrever código; trata-se de arquitetura e de entregar valor real.
+O meu foco é o desenvolvimento backend: construir soluções que sejam robustas, escaláveis e fáceis de manter. Para mim, desenvolver vai muito além de escrever código; trata-se de arquitetura e de entregar valor real.
 
 Técnica Sólida: Não uso apenas Java e Spring Boot; aplico Clean Architecture, SOLID e Design Patterns no dia a dia para garantir que o software cresça sem quebrar. O meu padrão é código testável e organizado.
 
