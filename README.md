@@ -51,6 +51,15 @@ Stack Principal: Java 8+, Spring Ecosystem, SQL (Postgres/MySQL), Docker e Git.
 
 </div>
 
+### 🌟 Projetos em Destaque
+
+| Projeto | Descrição | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| 💈 **Barber Shop API & UI** | Sistema completo de agendamento com regras de negócio rigorosas e UI moderna. | `Spring Boot 3` `Angular 21` `JPA` | [API](https://github.com/igorhgds/barber-shop-api) / [UI](https://github.com/igorhgds/barber-shop-ui) |
+| 🤖 **Financial AI & Voice** | Assistente financeiro que transforma comandos de voz em consultas de dados via IA. | `Java` `Azure OpenAI` `Speech API` | [Repositório](https://github.com/igorhgds/back-end-financial-system-ai) |
+| 📦 **Warehouse & Storefront** | Arquitetura de microserviços integrando estoque e e-commerce. | `Spring Boot` `Microservices` | [Warehouse](https://github.com/igorhgds/warehouse) / [Storefront](https://github.com/igorhgds/storefront) |
+| 🏭 **Industry IIoT** | Solução para Internet das Coisas Industrial (IIoT) e monitoramento. | `Java` `Spring Boot` `IIoT` | [Repositório](https://github.com/igorhgds/industry-iiot) |
+
 <!--
 ### GitHub Stats
 
