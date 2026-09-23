@@ -1,4 +1,4 @@
-<div align="center">
+para <div align="center">
   <h1>👋 Olá, eu sou o Igor Henrique Gomes</h1>
   <p><strong>Desenvolvedor Backend Java | Pós-graduando em IoT & IA | Professor Técnico</strong></p>
   <p><em>Unindo a tecnologia operacional (OT) do chão de fábrica ao ecossistema digital de TI</em></p>
@@ -23,13 +23,17 @@
 
 ### 🚀 Sobre Mim
 
-Depois de **10 anos de experiência na indústria elétrica e automação**, fiz uma transição de carreira estratégica para a **Engenharia de Software**. Hoje atuo como **Desenvolvedor Backend Java** e **Professor Técnico**, unindo a tecnologia operacional do chão de fábrica ao ecossistema digital de TI.
+Passei dez anos com a mão em motor, CLP, inversor de frequência e painel elétrico antes de escrever minha primeira linha de Java. Hoje eu uno a tecnologia operacional do chão de fábrica ao ecossistema digital de TI, atuando como **Engenheiro de Software Backend** e **Professor Técnico**.
 
-Minha bagagem em sistemas elétricos industriais me dá uma **visão sistêmica diferenciada** para resolver problemas complexos na arquitetura de software, telemetria e plataformas de **IoT Industrial (IIoT)**.
+Trabalho com telemetria industrial: dado saindo de sensor em campo, passando por broker MQTT e RabbitMQ, chegando na API e virando decisão sobre a saúde de um ativo. A diferença é que eu já estive no chão de fábrica e sei o impacto real quando um equipamento para.
 
-* ☕ **Backend & Nuvem:** Desenvolvimento Java focado em Spring Boot, APIs REST e arquitetura orientada a eventos (*RabbitMQ / Mosquitto MQTT*).
-* 👨‍🏫 **Docência Técnica:** Liderança de laboratórios práticos de Banco de Dados, Tecnologias Emergentes e Inteligência Artificial, além de mentoria em projetos de conclusão de curso com foco em Web e IoT.
-* 🎓 **Especialização Contínua:** Pós-graduando em **IoT e Inteligência Artificial**, integrando computação de borda (*Edge Computing*), processamento de dados e engenharia backend.
+#### 🛠️ O que eu construo & Tech Stack:
+* ☕ **Backend & IIoT Pipeline:** Java 21, Spring Boot, APIs REST, Arquitetura Hexagonal e SOLID. Ingestão de dados em tempo real com RabbitMQ e Eclipse Mosquitto (MQTT).
+* 🗄️ **Data & DevOps:** Modelagem e otimização em PostgreSQL, Oracle (PL/SQL) e SQL Server. Ambientes em Docker, versionamento de schema com Flyway e documentação via OpenAPI/Swagger.
+* 👨‍🏫 **Docência Técnica:** Professor no ensino técnico nas áreas de Banco de Dados, Redes e Tecnologias Emergentes. Mentor de +500 alunos e orientador em 22+ TCCs de aplicações Web e IoT.
+* 🎓 **Especialização:** Pós-graduando em **IoT e Inteligência Artificial (UTFPR)**, unindo *Edge Computing*, processamento de dados e engenharia backend.
+
+> 📬 Se você trabalha com telemetria, energia, manufatura ou qualquer produto que precise conversar com hardware de verdade, *let's talk!* Me chama no [LinkedIn](https://www.linkedin.com/in/igorhgds) ou mande um e-mail.
 
 ---
 
