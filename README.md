@@ -57,10 +57,10 @@ Minha bagagem em sistemas elétricos industriais me dá uma **visão sistêmica 
 > Aplicação backend Java para gestão financeira com integração a serviços de IA (**Azure OpenAI & Speech Services**), permitindo imputação e análise de dados financeiros através de processamento de linguagem natural e voz.  
 > `Java` • `Spring Boot` • `Azure OpenAI` • `Speech Services` • `REST API`
 
-#### 🏢 [SalesCorp / Mini ERP](https://github.com/igorhgds/salescorp)
-> **Sistema de Gestão Empresarial (Backend REST)**  
-> Arquitetura robusta para controle de vendas, estoque e cadastro de clientes. Projeto focado na aplicação de **Clean Architecture, SOLID, Design Patterns** e testes integrados para alta mantinibilidade e escalabilidade.  
-> `Java 8` • `Spring Boot` • `Spring Security` • `PostgreSQL` • `Clean Architecture`
+#### 🍽️ [Restaurant Management API](https://github.com/igorhgds/restaurant-management-api)
+> **Sistema de Gestão de Restaurantes (Backend REST)**  
+> API desenvolvida para gestão e controlo completo de pedidos, cardápios e reservas. Projeto focado na aplicação de **Clean Architecture, SOLID, Design Patterns** e testes integrados para alta manutenibilidade, performance e escalabilidade.  
+> `Java 21` • `Spring Boot` • `PostgreSQL` • `Docker` • `Clean Architecture`
 
 ---
 
